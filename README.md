@@ -5,6 +5,3 @@
 </div>
 </div>
 
-<div align="center">
-  <img src="https://github.com/flaviohfsilva/flaviohfsilva/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</div>
