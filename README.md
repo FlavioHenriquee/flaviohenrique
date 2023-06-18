@@ -4,3 +4,7 @@
 <img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flaviohfsilva&show_icons=true&theme=gruvbox"/>
 </div>
 </div>
+
+<div align="center">
+  <img src="https://github.com/flaviohfsilva/flaviohfsilva/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</div>
