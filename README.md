@@ -1,6 +1,6 @@
 # Hi, it's a pleasure to meet you 🫶🏾
 
-🧑🏾‍💻 Sou estudante do  4° período do curso de Análise e Desenvolvimento de Sistemas. Tenho me dedicado bastante aos meus estudos de linguagens e projetos para aprimorar minhas habilidades como desenvolvedor e pessoa. 
+🧑🏾‍💻 Sou estudante do  5° período do curso de Análise e Desenvolvimento de Sistemas. Tenho me dedicado bastante aos meus estudos de linguagens e projetos para aprimorar minhas habilidades como desenvolvedor e pessoa. 
 
 📰 Se ficou interessado, te convido a acompanhar meus projetos, olhar meu portfólio, a minha evolução e me seguir no linkendln.
 
