@@ -1,8 +1,10 @@
-# Hi, it's a pleasure to meet you 🫶🏾
+# Hi, it's a pleasure to meet you!
 
-🧑🏾‍💻 Sou estudante do  5° período do curso de Análise e Desenvolvimento de Sistemas. Tenho me dedicado bastante aos meus estudos de linguagens e projetos para aprimorar minhas habilidades como desenvolvedor e pessoa. 
+🧑🏾‍💻 Sou graduado em Análise e Desenvolvimento de Sistemas pelo Projeto Embarque Digital do Porto Digital na Universidade Tiradentes (UNIT-PE). Desde que entrei ao mundo da programação fiquei maravilhado com tudo que a tecnologia pode me proporcionar. 
 
-📰 Se ficou interessado, te convido a acompanhar meus projetos, olhar meu portfólio, a minha evolução e me seguir no linkendln.
+
+# Redes Sociais
+
 
 <div align="center">
 <div> <a href="https://github.com/flaviohfsilva">
