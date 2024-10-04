@@ -5,8 +5,8 @@
 </div>
 <br>
 
-- Linkedln: [Flávio Henrique]([url](https://br.linkedin.com/in/flaviohfsilva))
-- Access my portfolio: [Portfolio](https://flaviohenrique.netlify.app/)
+- Linkedln: <a target="_blank" href="https://www.linkedin.com/in/flaviohfsilva/">Flávio Henrique</a>
+- Access my portfolio:<a target="_blank" href="https://flaviohenrique.netlify.app/">Portfolio</a>
 - If you want get in touch, send me an email! <a href="mailto:seuemail@example.com">flaviohenriquefh18.work@gmail.com</a>
 <br>
 
