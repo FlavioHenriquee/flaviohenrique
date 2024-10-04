@@ -1,7 +1,14 @@
 # Hi, it's a pleasure to meet you!
 
-🧑🏾‍💻 Sou graduado em Análise e Desenvolvimento de Sistemas pelo Projeto Embarque Digital do Porto Digital na Universidade Tiradentes (UNIT-PE). Desde que entrei ao mundo da programação fiquei maravilhado com tudo que a tecnologia pode me proporcionar. 
+<div>
+   🧑🏾‍💻I have a degree in Systems Analysis and Development from the Digital Boarding Project of Porto Digital at Tiradentes University (UNIT-PE). Since I entered the world of programming, I have been amazed by everything that technology can provide me.
+</div>
+<br>
 
+- Linkedln: [Flávio Henrique]([url](https://br.linkedin.com/in/flaviohfsilva))
+- Access my porfolio: [Porfolio](https://flaviohenrique.netlify.app/)
+- If you want get in touch, send me an email! <a href="mailto:seuemail@example.com">flaviohenriquefh18.work@gmail.com</a>
+  
 
 
 <div align="start">
@@ -18,21 +25,6 @@
    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 </div>
-
-
-# Redes Sociais
-
-<div>
-   <a href="https://www.linkedin.com/in/flaviohfsilva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="mailto:flaviohenriquefh18.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-
-
 
 
 
