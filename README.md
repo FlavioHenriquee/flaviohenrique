@@ -6,9 +6,9 @@
 <br>
 
 - Linkedln: [Flávio Henrique]([url](https://br.linkedin.com/in/flaviohfsilva))
-- Access my porfolio: [Porfolio](https://flaviohenrique.netlify.app/)
+- Access my portfolio: [Portfolio](https://flaviohenrique.netlify.app/)
 - If you want get in touch, send me an email! <a href="mailto:seuemail@example.com">flaviohenriquefh18.work@gmail.com</a>
-  
+<br>
 
 
 <div align="start">
